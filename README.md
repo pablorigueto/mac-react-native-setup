@@ -1,7 +1,7 @@
 # mac-react-native-setup
 Real setup from scratch
 
-1) Install Brew follow the: https://brew.sh/
+1) Install Brew follow the: https://brew.sh/ <br>
    just run: $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 2) Meanwhile you can start the download of xcode: https://xcodereleases.com/
 3) Install rben using brew: $ brew install rbenv
